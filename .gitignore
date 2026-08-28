@@ -28,3 +28,6 @@ npm-debug.log*
 # Temp files
 *.tmp
 *.bak
+
+# Arquivos do Git
+.gitignore
